@@ -1,1 +1,1 @@
-# E-CommerceApplication
+# Baisc E-Commerce Application with Home Page
